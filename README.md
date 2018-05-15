@@ -1,2 +1,3 @@
-# hse-thesis
-HSE BSc Thesis
+# Read me
+
+This repository contains R scripts for GARCH models with news features evaluation and performance measurement
